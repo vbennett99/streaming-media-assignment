@@ -1,0 +1,24 @@
+{
+  "name": "streaming-media-assignment",
+  "version": "1.0.0",
+  "description": "Streaming Media Homework assignment",
+  "main": "src/server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D./\u001b[C\u001b[Dsrc/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbennett99/streaming-media-assignment.git"
+  },
+  "author": "Vincent Bennett",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vbennett99/streaming-media-assignment/issues"
+  },
+  "homepage": "https://github.com/vbennett99/streaming-media-assignment#readme",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
