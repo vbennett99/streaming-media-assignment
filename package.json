@@ -2,9 +2,11 @@
   "name": "streaming-media-assignment",
   "version": "1.0.0",
   "description": "Streaming Media Homework assignment",
-  "main": "src/server.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D./\u001b[C\u001b[Dsrc/server.js",
+  "main": "./src/server.js",
   "scripts": {
-    "test": "echo \"No tests\""
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
   },
   "repository": {
     "type": "git",
